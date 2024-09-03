@@ -10,6 +10,7 @@ function App() {
       <WelcomeHero></WelcomeHero>
       <div className="divider"></div>
       <PostList posts={posts}></PostList>
+      
     </Layout>
   );
 }
